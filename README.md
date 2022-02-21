@@ -4,7 +4,7 @@
 
 ## 🧑 Social
 
-[![Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajas-joshi-015a08193) &nbsp; [![Logo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajasjoshii) &nbsp; [![Logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]((mailto:rajasj6@gmail.com)) ;
+[![Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajas-joshi-015a08193) &nbsp; [![Logo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajasjoshii) &nbsp; [![Logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]((mailto:rajasj6@gmail.com))
 
 
 ## 👩‍💻 Languages
